@@ -1,4 +1,6 @@
-suckless swag
+suckless utils
+
+================
 
 just clone, go into the folders and doas make clean install
 
@@ -8,5 +10,9 @@ void linux: libXft-devel libX11-devel harfbuzz-devel libXext-devel libXrender-de
 
 arch linux: gd
 
-
 and also install jetbrainsmono nerd fonts :)
+
+
+================
+
+for anyone wondering, dwmism.tar.gz is just an alt version of dwm 
