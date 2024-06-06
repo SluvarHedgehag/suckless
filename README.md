@@ -1,4 +1,4 @@
-config'd suckless utils
+config'd suckless utils (and my .kshrc)
 
 ================
 
