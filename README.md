@@ -16,3 +16,5 @@ and also install jetbrainsmono nerd fonts :)
 ================
 
 for anyone wondering, dwmism.tar.gz is just an alt version of dwm 
+
+i didn't make anything here myself, go to https://suckless.org/
