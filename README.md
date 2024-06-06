@@ -1,4 +1,4 @@
-suckless utils
+config'd suckless utils
 
 ================
 
